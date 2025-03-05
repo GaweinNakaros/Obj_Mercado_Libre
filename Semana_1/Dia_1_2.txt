@@ -1,0 +1,56 @@
+
+ Fase 1: Fundamentos Sólidos (3 a 5 semanas)
+📌 Backend con Python (FastAPI y Flask)
+✅ Reforzar Python avanzado (POO, asíncrono, decoradores, manejo de errores)
+✅ Dominar FastAPI (CRUD, middlewares, seguridad JWT, validaciones con Pydantic)
+✅ Trabajar con Flask para proyectos más ligeros
+✅ Construir una API REST completa con FastAPI + PostgreSQL
+
+📌 Bases de Datos (PostgreSQL y Redis)
+✅ SQL avanzado: consultas, joins, índices
+✅ Modelado de datos eficiente para alto tráfico
+✅ Uso de SQLAlchemy y Alembic para manejar migraciones
+✅ Introducción a Redis para caché
+
+🛠 PROYECTO: Crear una API de gestión de productos con usuarios, autenticación JWT y PostgreSQL.
+
+📌 Semana 1: Python Avanzado y Preparación del Entorno
+Objetivo: Dominar conceptos clave de Python para el desarrollo backend con FastAPI.
+
+🔹 Día 1-2: Repaso de Python Avanzado
+✅ POO (Programación Orientada a Objetos): Clases, herencia, polimorfismo
+✅ Manejo de errores y excepciones
+✅ Funciones avanzadas: Decoradores, generadores y funciones lambda
+✅ Programación asíncrona con async y await
+
+📖 Ejercicio:
+
+Crear una clase Producto con métodos para modificar precio y stock.
+Hacer una versión de esta clase con @property y async.
+🔹 Día 3-4: Introducción a FastAPI y Setup del Proyecto
+✅ Instalar FastAPI y Uvicorn
+✅ Crear el primer endpoint REST (GET, POST, PUT, DELETE)
+✅ Manejo de request y response models con Pydantic
+✅ Introducción a routers y middlewares
+
+📖 Ejercicio:
+
+Crear un servicio de "productos" con endpoints básicos en FastAPI.
+🔹 Día 5-7: Base de Datos con PostgreSQL y SQLAlchemy
+✅ Instalación y configuración de PostgreSQL
+✅ Conectar FastAPI con SQLAlchemy
+✅ Crear modelos de base de datos y manejar migraciones con Alembic
+✅ CRUD completo con SQLAlchemy y FastAPI
+
+📖 Ejercicio:
+
+Crear una API que almacene productos en PostgreSQL con SQLAlchemy.
+🏆 Proyecto Final de la Semana
+🎯 Objetivo: Construir una API de gestión de productos con autenticación.
+🔹 Endpoints:
+
+Crear, leer, actualizar y eliminar productos
+Implementar autenticación con JWT
+Manejar validaciones con Pydantic
+🚀 ¿Cómo seguimos?
+Esta semana nos enfocamos en la base de Python + FastAPI. Si querés, podemos hacer ejercicios más detallados o empezar con el código directamente. ¿Cómo preferís avanzar?
