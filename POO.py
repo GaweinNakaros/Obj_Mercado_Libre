@@ -1,3 +1,12 @@
+## Programación Orientada a Objetos (POO)
+ ## Conceptos Clave de POO
+ ## Clases y Objetos: Definen estructuras de datos con comportamiento encapsulado.
+ ## Encapsulamiento: Restringe el acceso directo a los atributos de un objeto.
+ ## Herencia: Permite que una clase derive de otra y reutilice su funcionalidad.
+ ## Polimorfismo: Habilidad de diferentes clases para compartir la misma interfaz.
+ ##Decoradores y Métodos Especiales: Uso de @property, __str__, __repr__, entre otros.
+
+
 ## Ejercicio 1: Crear una clase Producto con métodos para modificar precio y stock
 ## 🔹 Explicación:
 ## ✔️ Creamos una clase Producto con atributos nombre, _precio y _stock.
@@ -126,3 +135,4 @@ async def main():
     print(producto2)
 
 asyncio.run(main())
+
